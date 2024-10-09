@@ -1,0 +1,4 @@
+10-10-20241  Acceso a menu empleados
+10-10-20241  Añadir una venta
+10-10-20240  Acceso a menu principal de empleados
+10-10-20240  Acceso a menu principal
